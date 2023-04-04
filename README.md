@@ -2,7 +2,7 @@
 
 This is the main repository for all of my work in ENGL877.
 
-##Reading Responses
+## Reading Responses
 
 * **Reading Response 1:** This discusses the limited access HBCUs have to government funding, such as the Humanities Initiatives at Historically Black Colleges and Universities grant, which receives a limited number of applications and awards per year.
 
@@ -16,7 +16,7 @@ This is the main repository for all of my work in ENGL877.
 
 * **Reading Response 6:** This discusses a project that focuses on the experience of slavery, which is the foundation of Caribbean society, and uses texts and images collected from One More Voice to tell the story of British colonialism and the enslaved West-Africans.
 
-##OMV Exploration
+## OMV Exploration
 
 * **OMV1:** This is an exploration of a large data set from One More Voice.
 
